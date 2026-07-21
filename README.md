@@ -67,7 +67,20 @@ Shared, non-sensitive config lives in a single source of truth and is synced int
 
 ## 📸 Screenshots
 
-> _Coming soon — mini-program screens of the thesis list, pivot detail, action reminder, and review flow._
+<table>
+  <tr>
+    <td align="center"><strong>逻辑列表</strong><br><img src="screenshots/01-list.png" width="240" alt="逻辑列表"></td>
+    <td align="center"><strong>逻辑详情与支点</strong><br><img src="screenshots/02-thesis.png" width="240" alt="逻辑详情与支点"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>支点验证记录</strong><br><img src="screenshots/03-pivot.png" width="240" alt="支点验证记录"></td>
+    <td align="center"><strong>投资复盘</strong><br><img src="screenshots/04-review.png" width="240" alt="投资复盘"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>组合持仓</strong><br><img src="screenshots/05-portfolio.png" width="240" alt="组合持仓"></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
